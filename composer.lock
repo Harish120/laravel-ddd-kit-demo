@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "47e3112f572ba138547b79d4611a0e5d",
+    "content-hash": "21a8a9e87808e58f26eb0de8254d1f7c",
     "packages": [
         {
             "name": "brick/math",
@@ -1061,16 +1061,16 @@
         },
         {
             "name": "harryes/laravel-ddd-kit",
-            "version": "v0.1.0",
+            "version": "v0.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Harish120/laravel-ddd-kit.git",
-                "reference": "5b3bf3ff306abe9d7da58da86bcc0b1fda022550"
+                "reference": "7a22ea18e543ffe39dd53f29adcb4fb68e159eaf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Harish120/laravel-ddd-kit/zipball/5b3bf3ff306abe9d7da58da86bcc0b1fda022550",
-                "reference": "5b3bf3ff306abe9d7da58da86bcc0b1fda022550",
+                "url": "https://api.github.com/repos/Harish120/laravel-ddd-kit/zipball/7a22ea18e543ffe39dd53f29adcb4fb68e159eaf",
+                "reference": "7a22ea18e543ffe39dd53f29adcb4fb68e159eaf",
                 "shasum": ""
             },
             "require": {
@@ -1122,7 +1122,7 @@
                 "issues": "https://github.com/Harish120/laravel-ddd-kit/issues",
                 "source": "https://github.com/Harish120/laravel-ddd-kit"
             },
-            "time": "2026-09-10T04:20:20+00:00"
+            "time": "2026-10-01T05:05:22+00:00"
         },
         {
             "name": "laravel/framework",
